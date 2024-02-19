@@ -24,5 +24,17 @@ The non-primitive data strucutres can be further classified into linear and nonl
 <li><h6>Charecter : </h6>It is a data type which is used for character values.</li>
 <li><h6>Boolean : </h6>Stores the logical values true or false.</li>
 
-
 </ol>
+
+<h1>Non-Primitive Data Structure.</h1>
+<p>
+Non-primitive data sturctures are derived from primitive data structure and are more complicated.
+Threfore, these are also known as Derived Type.
+These rely on primitive structures and focus on grouping the homogenous values in a from.
+Non-primitive structures are usually more prefferred as these are more flexible compared to primitive's ones.The user can construct its non-primitive structures considering the operations to perform.
+Non-Primitive Data Structures can again be classified into two categories. 
+<ul>
+<li>Linear Data Structure.</li>
+<li>Non-Linear Data Structure</li>
+</ul>
+</p> 
