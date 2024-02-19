@@ -10,3 +10,19 @@ Data structures are grouped on the type of operations required to perform.The tw
 <li>Non-primitive data strucutres or the derived data structures</li>
 </ol>
 The non-primitive data strucutres can be further classified into linear and nonlinear data structures, which can further based on how the data is stored.The types of trees in the data structure flow.
+
+<h1>Primitive Data Structure</h1>
+<ul>
+<li>Primitive data structure are basic structures and are directly operated upon by machine instruction.</li>
+<li>Primitive data structures have different representations on different computers</li>
+<li>Integers,floats,character, and pointer are examples of primitive data structure.</li>
+<li>These data types are avilable is most programming language as built in type.</li>
+</ul>
+<ol>
+<li><h6>Integer : </h6>It is a data type which allows all values without fraction part.We can use it for whole numbers.</li>
+<li><h6>Float : </h6>It is a data type which for storing fractional numbers.</li>
+<li><h6>Charecter : </h6>It is a data type which is used for character values.</li>
+<li><h6>Boolean : </h6>Stores the logical values true or false.</li>
+
+
+</ol>
